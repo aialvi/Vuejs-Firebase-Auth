@@ -1,5 +1,9 @@
 # vfire
 
+A simple vue app with firebase email authentication integrated.
+
+Live view: https://focused-benz-5185b3.netlify.app/ 
+
 ## Project setup
 ```
 npm install
