@@ -1,7 +1,7 @@
 <template>
   <div>
     <h3>
-      <h2>lol</h2>
+      <h2>You are AWESOME!</h2>
       <!-- <h5 v-for="secret in secrets" :key="secret.char_id">{{secret.name}}</h5> -->
     </h3>
   </div>
